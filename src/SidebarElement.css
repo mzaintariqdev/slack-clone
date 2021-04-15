@@ -1,0 +1,10 @@
+
+button
+{
+
+	background-color: transparent; 
+	border:none;
+}
+button >.MuiSvgIcon-root{
+ 	margin-left:5px; 
+ }
